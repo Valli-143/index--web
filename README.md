@@ -1,2 +1,2 @@
 # index--web
-index--web
+index
